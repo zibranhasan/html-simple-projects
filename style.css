@@ -56,3 +56,47 @@ h1{text-align: center;}
     text-align: center;
     color: black;
 }
+
+.white-black{
+
+color: black;
+
+}
+.last-things{
+
+display:flex;
+margin: 20px;
+
+}
+.first{
+
+background-color: brown;
+margin-right: 20px;
+}
+.second{
+
+background-color: darkgoldenrod;
+margin-right: 20px;
+}
+.third{
+
+
+background-color: darksalmon;
+
+
+}
+footer{
+
+background-image: url(images/ltF2UM.jpg);
+
+}
+
+
+
+
+
+
+
+
+
+
