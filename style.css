@@ -88,7 +88,15 @@ background-color: darksalmon;
 footer{
 
 background-image: url(images/ltF2UM.jpg);
+background-size: 160%;
+height: 130px;
+background-repeat: no-repeat;
 
+}
+.finish{
+    font-style: italic;
+    color: brown;
+    text-align: center;
 }
 
 
